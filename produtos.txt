@@ -1,0 +1,3 @@
+Bolacha,Maria,0001,300,3.50
+Achocolatado,Toddy,0005,300,2.50
+Celular,Samsung,0202,500,500
